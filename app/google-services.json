@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "265564590267",
+    "firebase_url": "https://gadgetwala-38d9e.firebaseio.com",
+    "project_id": "gadgetwala-38d9e",
+    "storage_bucket": "gadgetwala-38d9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265564590267:android:129812dddd72d0d819199e",
+        "android_client_info": {
+          "package_name": "com.kale.gadgetwala"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265564590267-b721bsuc7negfe4pinlb14m9roe8m1vi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kale.gadgetwala",
+            "certificate_hash": "5d2ba1332a4162176e6683180172b00782cd9f12"
+          }
+        },
+        {
+          "client_id": "265564590267-31mdvru09qjomncee8fbki4f9r26fh1e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo8CiCAjze_5Y1MjO2Um14B9vRrLvz3ak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265564590267-31mdvru09qjomncee8fbki4f9r26fh1e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
